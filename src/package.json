@@ -1,0 +1,11 @@
+{
+  "name": "vuejs-playground",
+  "version": "1.0.0",
+  "description": "just playing around :)\nBut using Vue.js instead of React :P",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap-vue": "2.0.0-rc.2",
+    "vue": "2.4.1"
+  }
+}
